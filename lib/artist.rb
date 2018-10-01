@@ -1,5 +1,4 @@
 require 'pry'
-
 class Artist
     extend Concerns::Findable
       attr_accessor :name, :genre, :songs
@@ -39,4 +38,5 @@ class Artist
       song.genre
       end.uniq
     end
+
 end
