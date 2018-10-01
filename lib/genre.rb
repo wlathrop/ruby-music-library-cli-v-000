@@ -37,5 +37,4 @@ class Genre
         song.artist
       end.uniq
     end
-
   end
