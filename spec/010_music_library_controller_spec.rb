@@ -64,4 +64,3 @@ describe "MusicLibraryController" do
     end
   end
 end
-© 2018 GitHub, Inc.
